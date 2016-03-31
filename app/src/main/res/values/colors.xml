@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="num">#745ec5</color>
+    <color name="inst">#263238</color>
+    <color name="num2">#5b48a2</color>
+    <color name="swipe">#0a1b2d</color>
+    <color name="swipeNav">#070a19</color>
+    <color name="timer">#46338e</color>
+    <color name="timerNav">#5943ac</color>
+    <color name="main">#000000</color>
+</resources>
