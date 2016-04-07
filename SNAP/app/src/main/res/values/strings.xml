@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_time_picker">TimePicker</string>
+    <string name="title_activity_voice">Voice</string>
+    <string name="title_activity_edittime">Edittime</string>
+    <string name="title_activity_example">Example</string>
+    <string name="title_activity_number_pick">NumberPick</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="title_activity_applist">Applist</string>
+    <string name="title_activity_notificationview">Notificationview</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_timer_part">TimerPart</string>
+    <string name="title_activity_plain">Plain</string>
+    <string name="title_activity_end">End</string>
+</resources>
